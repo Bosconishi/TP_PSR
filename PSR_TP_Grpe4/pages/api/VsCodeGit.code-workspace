@@ -1,0 +1,43 @@
+{
+	"folders": [
+		{
+			"path": "E:/VsCodeGit"
+		},
+		{
+			"path": "C:/Users/bosco/react1"
+		},
+		{
+			"path": "E:/AppVue"
+		},
+		{
+			"path": "C:/wamp64/www/Projet_Psr"
+		},
+		{
+			"path": "E:/Script"
+		},
+		{
+			"path": "E:/react1"
+		},
+		{
+			"path": "E:/react1/Client"
+		},
+		{
+			"path": "E:/react1/Server"
+		},
+		{
+			"path": "E:/Tailwind"
+		},
+		{
+			"path": "E:/Crud"
+		},
+		{
+			"path": "E:/AppNotification"
+		},
+		{
+			"path": "E:/NextJs"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Tailwind"
+	}
+}
